@@ -1,0 +1,12 @@
+applications:
+- path: build/libs/bluemixlinebot.war
+  
+memory: 512M
+  
+instances: 1
+  
+domain: mybluemix.net
+  
+name: have fun
+host: have-fun 
+disk_quota: 1024M
